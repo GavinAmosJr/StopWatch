@@ -1,4 +1,4 @@
 # StopWatch
 Simple stopwatch using javascript
 
-![Screenshot](Beetle Juice StopWatch.png)
+![Screenshot](Beetle-Juice-StopWatch.png)
